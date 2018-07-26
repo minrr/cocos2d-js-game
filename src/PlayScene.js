@@ -113,6 +113,9 @@ var PlayLayer = cc.Layer.extend({
     }
 });
 
+
+
+
 var PlayScene = cc.Scene.extend({
     onEnter:function(){
         this._super();
